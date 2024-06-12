@@ -23,23 +23,23 @@ This repository contains various academic projects I have worked on. The project
 
 ### Parallelization Study of the Numerical Solution to a 2D Heat Equation
 
-A study on the parallelization techniques applied to the numerical solution of the 2D heat equation. The project explores various methods to improve computational efficiency.
+A study on the parallelization techniques applied to the numerical solution of the 2D heat equation. The project explores various methods to improve computational efficiency. This project is found in the Parallelization_Study folder.
 
 ### Analysis of Various Numerical Integration Methods
 
-An analytical comparison of different numerical integration methods. This project evaluates the accuracy and efficiency of trapezoidal rule and Gauss quadrature.
+An analytical comparison of different numerical integration methods. This project evaluates the accuracy and efficiency of trapezoidal rule and Gauss quadrature. This project is found in the Analysis_Integration_Metholds folder.
 
 ### Correlation Study on Variation in Latitude of the Polar Jet Stream
 
-A statistical analysis of the correlation between various environmental factors and the latitude variation of the polar jet stream.
+A statistical analysis of the correlation between various environmental factors and the latitude variation of the polar jet stream. This project is found in the Correlation_Study folder.
 
 ### Improving Dynamic Radiation Background Projection Through Interpolated Categorization (LANL)
 
-A project conducted at Los Alamos National Laboratory (LANL) focused on improving the dynamic radiation background projection using interpolated categorization techniques.
+A project conducted at Los Alamos National Laboratory (LANL) focused on improving the dynamic radiation background projection using interpolated categorization techniques. This project is found in the Interpolated_Categorization folder.
 
 ### Algorithm for Mass Prediction of a Nuclear Source in a Dynamic Environment (LANL)
 
-Another project conducted at LANL, aimed at developing an algorithm for predicting the mass of a nuclear source in a dynamic environment.
+Another project conducted at LANL, aimed at developing an algorithm for predicting the mass of a nuclear source in a dynamic environment. This project is found in the Algorithm_Mass_Prediction folder.
 
 ## Technologies Used
 
