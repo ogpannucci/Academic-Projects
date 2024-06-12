@@ -7,8 +7,6 @@ This project is a study on the parallelization techniques applied to the numeric
 - **Report**: The detailed analysis and findings of the project are documented in a report created as a joint project.
 - **Scripts**:
   - `hw4.sh`: A shell script that runs `hw4_part2.py` on the CARC (UNM Center for Advanced Research Computing).
-  - `hw4_output`: The output returned from the CARC run.
-  - `hw4_error`: The error output from the CARC run.
   - `hw4_part1.py`: Solves part I of the homework. Use `option = 1` on line 202 for single-thread testing or `option = 2` for larger problem size and multithreading.
   - `hw4_part2.py`: The code for part II of the homework. Use `option = 1` on line 200.
   - `check_matvec.py`: Used in `hw4_part1.py` and `hw4_part2.py` to check the matrix vector.
