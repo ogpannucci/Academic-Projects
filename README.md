@@ -33,6 +33,10 @@ An analytical comparison of different numerical integration methods. This projec
 
 A statistical analysis of the correlation between various environmental factors and the latitude variation of the polar jet stream. This project is found in the Correlation_Study folder.
 
+### Developing and Probing an Unmanned Facility Monitoring and Anomaly Detection System for Nuclear Scurity and Safeguards (LANL)
+
+A project conducted at Los Alamos National Laboratory (LANL) to create a anomaly detection system using machine learning and stochastic process modeling for implementation in nuclear facilities to improve security. 
+
 ### Improving Dynamic Radiation Background Projection Through Interpolated Categorization (LANL)
 
 A project conducted at Los Alamos National Laboratory (LANL) focused on improving the dynamic radiation background projection using interpolated categorization techniques. This project is found in the Interpolated_Categorization folder.
